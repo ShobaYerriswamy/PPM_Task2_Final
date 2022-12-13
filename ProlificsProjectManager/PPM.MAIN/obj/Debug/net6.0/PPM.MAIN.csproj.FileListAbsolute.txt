@@ -1,0 +1,15 @@
+C:\Users\SMandlole\ProlificsProjectManager\PPM.MAIN\bin\Debug\net6.0\PPM.MAIN.exe
+C:\Users\SMandlole\ProlificsProjectManager\PPM.MAIN\bin\Debug\net6.0\PPM.MAIN.deps.json
+C:\Users\SMandlole\ProlificsProjectManager\PPM.MAIN\bin\Debug\net6.0\PPM.MAIN.runtimeconfig.json
+C:\Users\SMandlole\ProlificsProjectManager\PPM.MAIN\bin\Debug\net6.0\PPM.MAIN.dll
+C:\Users\SMandlole\ProlificsProjectManager\PPM.MAIN\bin\Debug\net6.0\PPM.MAIN.pdb
+C:\Users\SMandlole\ProlificsProjectManager\PPM.MAIN\obj\Debug\net6.0\PPM.MAIN.csproj.AssemblyReference.cache
+C:\Users\SMandlole\ProlificsProjectManager\PPM.MAIN\obj\Debug\net6.0\PPM.MAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMandlole\ProlificsProjectManager\PPM.MAIN\obj\Debug\net6.0\PPM.MAIN.AssemblyInfoInputs.cache
+C:\Users\SMandlole\ProlificsProjectManager\PPM.MAIN\obj\Debug\net6.0\PPM.MAIN.AssemblyInfo.cs
+C:\Users\SMandlole\ProlificsProjectManager\PPM.MAIN\obj\Debug\net6.0\PPM.MAIN.csproj.CoreCompileInputs.cache
+C:\Users\SMandlole\ProlificsProjectManager\PPM.MAIN\obj\Debug\net6.0\PPM.MAIN.dll
+C:\Users\SMandlole\ProlificsProjectManager\PPM.MAIN\obj\Debug\net6.0\refint\PPM.MAIN.dll
+C:\Users\SMandlole\ProlificsProjectManager\PPM.MAIN\obj\Debug\net6.0\PPM.MAIN.pdb
+C:\Users\SMandlole\ProlificsProjectManager\PPM.MAIN\obj\Debug\net6.0\PPM.MAIN.genruntimeconfig.cache
+C:\Users\SMandlole\ProlificsProjectManager\PPM.MAIN\obj\Debug\net6.0\ref\PPM.MAIN.dll

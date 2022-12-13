@@ -1,0 +1,5 @@
+C:\Users\SMandlole\ProlificsProjectManager\obj\Debug\net6.0\ProlificsProjectManager.csproj.AssemblyReference.cache
+C:\Users\SMandlole\ProlificsProjectManager\obj\Debug\net6.0\ProlificsProjectManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMandlole\ProlificsProjectManager\obj\Debug\net6.0\ProlificsProjectManager.AssemblyInfoInputs.cache
+C:\Users\SMandlole\ProlificsProjectManager\obj\Debug\net6.0\ProlificsProjectManager.AssemblyInfo.cs
+C:\Users\SMandlole\ProlificsProjectManager\obj\Debug\net6.0\ProlificsProjectManager.csproj.CoreCompileInputs.cache
